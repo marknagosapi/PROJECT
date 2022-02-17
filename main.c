@@ -3,7 +3,7 @@
 
 
 int main() {
-    int n=5;
+    int n=6;
     printf("%d",sub(5,2));
     return 0;
 }
