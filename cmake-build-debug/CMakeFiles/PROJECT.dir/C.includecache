@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/marknago/Desktop/SAPIENTIA/INFORMATIKA/II FELEV/Data Structures & Algorithms/I/PROJECT/main.c
+stdio.h
+-
+

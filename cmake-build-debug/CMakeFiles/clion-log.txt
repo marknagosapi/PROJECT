@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=/Users/marknago/Desktop/trash/kocka/cmake-build-debug/CMakeFiles/CMakeTmp -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/Users/marknago/Desktop/SAPIENTIA/INFORMATIKA/II FELEV/Data Structures & Algorithms/I/PROJECT"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/marknago/Desktop/SAPIENTIA/INFORMATIKA/II FELEV/Data Structures & Algorithms/I/PROJECT/cmake-build-debug
