@@ -1,12 +1,10 @@
 #include <stdio.h>
+#include "Functions.h"
 
-int sub(int, int);
 
 int main() {
-    printf("Hello, World!\n");
+    printf("%d",sub(5,2));
     return 0;
 }
 
-int sub(int a,int b){
-    return a-b;
-}
+

@@ -4,6 +4,7 @@
 
 #ifndef PROJECT_FUNCTIONS_H
 #define PROJECT_FUNCTIONS_H
+#include <stdio.h>
 
 int sub(int, int);
 
